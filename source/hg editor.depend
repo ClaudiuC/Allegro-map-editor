@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1258766233 source:g:\game dev\hg editor\source\main.cpp
+	"gui\guimain.h"
+	"editor\editormain.h"
+	"editor\tilesetmain.h"
+	"editor\minimapmain.h"
+	"utils\dataformat.h"
+
+1257539513 source:g:\game dev\hg editor\source\gui\button.cpp
+	"button.h"
+
+1257611139 g:\game dev\hg editor\source\gui\button.h
+	<Allegro.h>
+	<string>
+
+1257613700 g:\game dev\hg editor\source\gui\frame.h
+	<Allegro.h>
+
+1257620182 source:g:\game dev\hg editor\source\gui\guiobject.cpp
+	"guiobject.h"
+
+1257620435 g:\game dev\hg editor\source\gui\guiobject.h
+	<Allegro.h>
+	<string>
+
+1258558638 source:g:\game dev\hg editor\source\input\inputmouse.cpp
+	"inputmouse.h"
+
+1259012586 g:\game dev\hg editor\source\input\inputmouse.h
+	<allegro.h>
+	"..\gui\cursorData.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guibutton.h
+	<string>
+	"..\input\inputmouse.h"
+	"guiData.h"
+	"guiresources.h"
+
+1258600141 source:g:\game dev\hg editor\source\gui\guibutton.cpp
+	"guibutton.h"
+
+1258558638 source:g:\game dev\hg editor\source\gui\guiframe.cpp
+	"guiframe.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guiframe.h
+	<string>
+	"guiresources.h"
+	"..\input\inputmouse.h"
+
+1258558638 source:g:\game dev\hg editor\source\gui\guicheckbox.cpp
+	"guicheckbox.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guicheckbox.h
+	<string>
+	"..\input\inputmouse.h"
+	"guiresources.h"
+	"guiData.h"
+
+1258558638 source:g:\game dev\hg editor\source\gui\guiscrollbar.cpp
+	"guiscrollbar.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guiscrollbar.h
+	<string>
+	"..\input\inputmouse.h"
+
+1257803451 source:g:\game dev\hg editor\source\gui\guiwidget.cpp
+	"guiwidget.h"
+
+1257803363 g:\game dev\hg editor\source\gui\guiwidget.h
+	<Allegro.h>
+	<string>
+	"guiData.h"
+	"guibutton.h"
+	"guicheckbox.h"
+	"guiframe.h"
+	"guiresources.h"
+	"guiscrollbar.h"
+	"guitextfield.h"
+	"..\input\inputmouse.h"
+
+1258558638 source:g:\game dev\hg editor\source\gui\guitextfield.cpp
+	"guitextfield.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guitextfield.h
+	<allegro.h>
+	<string>
+	"..\input\inputmouse.h"
+	"guiData.h"
+	"guiresources.h"
+
+1258558638 source:g:\game dev\hg editor\source\gui\guiresources.cpp
+	"guiresources.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guiresources.h
+	<allegro.h>
+	"guiData.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guidata.h
+
+1258558638 source:g:\game dev\hg editor\source\gui\guilabel.cpp
+	"guilabel.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guilabel.h
+	<allegro.h>
+	<string>
+
+1258767302 source:g:\game dev\hg editor\source\gui\guimain.cpp
+	"guimain.h"
+
+1259012586 g:\game dev\hg editor\source\gui\guimain.h
+	"guibutton.h"
+	"guiframe.h"
+	"guicheckbox.h"
+	"guiscrollbar.h"
+	"..\input\inputmouse.h"
+	"guitextfield.h"
+	"guiresources.h"
+	"guilabel.h"
+	"..\editor\editormain.h"
+	"..\editor\tilesetmain.h"
+	"..\editor\minimapmain.h"
+
+1259012585 source:g:\game dev\hg editor\source\editor\editormain.cpp
+	"editormain.h"
+
+1259012585 g:\game dev\hg editor\source\editor\editormain.h
+	<allegro.h>
+	<malloc.h>
+	<iostream>
+	"..\gui\guimain.h"
+	"mapData.h"
+	"..\utils\dataformat.h"
+	"..\input\inputmouse.h"
+	"particleemitter.h"
+
+1258558638 source:g:\game dev\hg editor\source\editor\tilesetmain.cpp
+	"tilesetmain.h"
+
+1259012585 g:\game dev\hg editor\source\editor\tilesetmain.h
+	"editormain.h"
+	"..\gui\guimain.h"
+	"..\input\inputmouse.h"
+
+1259012585 g:\game dev\hg editor\source\editor\mapdata.h
+
+1259012585 g:\game dev\hg editor\source\editor\minimapmain.h
+	"editormain.h"
+	"..\gui\guimain.h"
+
+1259012585 source:g:\game dev\hg editor\source\editor\minimapmain.cpp
+	"minimapmain.h"
+
+1259012586 g:\game dev\hg editor\source\utils\dataformat.h
+	<string>
+	<sstream>
+
+1258558638 source:g:\game dev\hg editor\source\utils\dataformat.cpp
+	"dataformat.h"
+
+1258329164 source:g:\game dev\hg editor\source\allmap.rc
+
+1258379057 source:g:\game dev\hg editor\source\gui\guicursor.cpp
+	"guicursor.h"
+
+1258379057 g:\game dev\hg editor\source\gui\guicursor.h
+
+1259012585 g:\game dev\hg editor\source\gui\cursordata.h
+
+1258781472 source:g:\game dev\hg editor\source\editor\particleemitter.cpp
+	"particleemitter.h"
+
+1259012627 g:\game dev\hg editor\source\editor\particleemitter.h
+	<math.h>
+	<allegro.h>
+	<iostream>
+
+1258329164 source:d:\hg editor\source\allmap.rc
+
+1258981634 source:d:\hg editor\source\editor\editormain.cpp
+	"editormain.h"
+
+1259012586 d:\hg editor\source\editor\editormain.h
+	<allegro.h>
+	<malloc.h>
+	<iostream>
+	"..\gui\guimain.h"
+	"mapData.h"
+	"..\utils\dataformat.h"
+	"..\input\inputmouse.h"
+	"particleemitter.h"
+
+1259012588 d:\hg editor\source\gui\guimain.h
+	"guibutton.h"
+	"guiframe.h"
+	"guicheckbox.h"
+	"guiscrollbar.h"
+	"..\input\inputmouse.h"
+	"guitextfield.h"
+	"guiresources.h"
+	"guilabel.h"
+	"..\editor\editormain.h"
+	"..\editor\tilesetmain.h"
+	"..\editor\minimapmain.h"
+
+1259012588 d:\hg editor\source\gui\guibutton.h
+	<string>
+	"..\input\inputmouse.h"
+	"guiData.h"
+	"guiresources.h"
+
+1259012588 d:\hg editor\source\input\inputmouse.h
+	<allegro.h>
+	"..\gui\cursorData.h"
+
+1259012586 d:\hg editor\source\gui\cursordata.h
+
+1259012588 d:\hg editor\source\gui\guidata.h
+
+1259012588 d:\hg editor\source\gui\guiresources.h
+	<allegro.h>
+	"guiData.h"
+
+1259012588 d:\hg editor\source\gui\guiframe.h
+	<string>
+	"guiresources.h"
+	"..\input\inputmouse.h"
+
+1259012588 d:\hg editor\source\gui\guicheckbox.h
+	<string>
+	"..\input\inputmouse.h"
+	"guiresources.h"
+	"guiData.h"
+
+1259012588 d:\hg editor\source\gui\guiscrollbar.h
+	<string>
+	"..\input\inputmouse.h"
+
+1259012588 d:\hg editor\source\gui\guitextfield.h
+	<allegro.h>
+	<string>
+	"..\input\inputmouse.h"
+	"guiData.h"
+	"guiresources.h"
+
+1259012588 d:\hg editor\source\gui\guilabel.h
+	<allegro.h>
+	<string>
+
+1259012586 d:\hg editor\source\editor\tilesetmain.h
+	"editormain.h"
+	"..\gui\guimain.h"
+	"..\input\inputmouse.h"
+
+1259012586 d:\hg editor\source\editor\minimapmain.h
+	"editormain.h"
+	"..\gui\guimain.h"
+
+1259012586 d:\hg editor\source\editor\mapdata.h
+
+1259012588 d:\hg editor\source\utils\dataformat.h
+	<string>
+	<sstream>
+
+1259012628 d:\hg editor\source\editor\particleemitter.h
+	<math.h>
+	<allegro.h>
+	<iostream>
+
+1259012586 source:d:\hg editor\source\editor\minimapmain.cpp
+	"minimapmain.h"
+
+1259012654 source:d:\hg editor\source\editor\particleemitter.cpp
+	"particleemitter.h"
+
+1259012586 source:d:\hg editor\source\editor\tilesetmain.cpp
+	"tilesetmain.h"
+
+1259012588 source:d:\hg editor\source\gui\guibutton.cpp
+	"guibutton.h"
+
+1259012588 source:d:\hg editor\source\gui\guicheckbox.cpp
+	"guicheckbox.h"
+
+1259012588 source:d:\hg editor\source\gui\guiframe.cpp
+	"guiframe.h"
+
+1259012588 source:d:\hg editor\source\gui\guilabel.cpp
+	"guilabel.h"
+
+1258981871 source:d:\hg editor\source\gui\guimain.cpp
+	"guimain.h"
+
+1259012588 source:d:\hg editor\source\gui\guiresources.cpp
+	"guiresources.h"
+
+1259012588 source:d:\hg editor\source\gui\guiscrollbar.cpp
+	"guiscrollbar.h"
+
+1259012588 source:d:\hg editor\source\gui\guitextfield.cpp
+	"guitextfield.h"
+
+1259012588 source:d:\hg editor\source\input\inputmouse.cpp
+	"inputmouse.h"
+
+1258980742 source:d:\hg editor\source\main.cpp
+	"gui\guimain.h"
+	"editor\editormain.h"
+	"editor\tilesetmain.h"
+	"editor\minimapmain.h"
+	"utils\dataformat.h"
+
+1259012588 source:d:\hg editor\source\utils\dataformat.cpp
+	"dataformat.h"
+

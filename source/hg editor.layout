@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="editor\editormain.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="editor\editormain.h" open="1" top="0" tabpos="19">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="editor\mapData.h" open="1" top="0" tabpos="20">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="editor\minimapmain.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="editor\minimapmain.h" open="1" top="0" tabpos="21">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="editor\particleemitter.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="6434" topLine="182" />
+	</File>
+	<File name="editor\particleemitter.h" open="1" top="0" tabpos="5">
+		<Cursor position="2860" topLine="33" />
+	</File>
+	<File name="editor\tilesetmain.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="editor\tilesetmain.h" open="1" top="0" tabpos="22">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\cursorData.h" open="1" top="0" tabpos="23">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guiData.h" open="1" top="0" tabpos="24">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guibutton.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guibutton.h" open="1" top="0" tabpos="25">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guicheckbox.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guicheckbox.h" open="1" top="0" tabpos="26">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guiframe.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guiframe.h" open="1" top="0" tabpos="27">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guilabel.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guilabel.h" open="1" top="0" tabpos="28">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guimain.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guimain.h" open="1" top="0" tabpos="29">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guiresources.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guiresources.h" open="1" top="0" tabpos="30">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guiscrollbar.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guiscrollbar.h" open="1" top="0" tabpos="31">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guitextfield.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="gui\guitextfield.h" open="1" top="0" tabpos="32">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="input\inputmouse.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="input\inputmouse.h" open="1" top="0" tabpos="33">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="utils\dataformat.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="982" topLine="0" />
+	</File>
+	<File name="utils\dataformat.h" open="1" top="0" tabpos="34">
+		<Cursor position="982" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
